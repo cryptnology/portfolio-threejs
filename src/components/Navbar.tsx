@@ -45,7 +45,7 @@ const Navbar = () => {
           <img src={logo} alt="logo" className="w-7 h-7 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Jamie&nbsp;
-            <span className="sm:block hidden"> @ Cryptnology</span>
+            <span className="sm:block hidden"> @Cryptnology</span>
           </p>
         </Link>
 
